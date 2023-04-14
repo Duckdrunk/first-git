@@ -1,0 +1,21 @@
+body
+{
+    background: blue;
+}
+
+p
+{
+    text-align: center;
+    color : white;
+}
+
+h1
+{
+    text-align:center;
+}
+
+#mision
+{
+    font-size: 20px;
+    color : red;
+}
